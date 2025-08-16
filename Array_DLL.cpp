@@ -140,12 +140,32 @@ Node* InsertkNode(Node* head , int val ,int k){
     temp->back = newNode;
 return head;
 }
+Node* ReverseDDL(Node* head ){
+    if(head ==NULL || head->next == NULL) return head;
+    Node* temp = NULL;
+    Node* curr = head;
+
+    while (curr != NULL) {
+        // Swap next and back
+        temp = curr->back;
+        curr->back = curr->next;
+        curr->next = temp;
+
+        // Move to next node (which is now in back)
+        curr = curr->back;
+    }
+   if (temp != NULL) {
+        head = temp->back;
+    }
+    return head; // prev will be the new head of the reversed list
+}
+
 int main(){
     vector<int> arr = {2 , 5 , 8 , 9};
     Node* head = ArraytoDLList(arr);
     print(head);
 
-    head = InsertkNode(head , 15 , 3);
+    head = ReverseDDL(head);
     print(head);
 return 0;
  }
