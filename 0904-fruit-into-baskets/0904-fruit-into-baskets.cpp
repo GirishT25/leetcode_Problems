@@ -6,13 +6,11 @@ public:
         while( r < fruits.size()){
             mp[fruits[r]]++;
             if(mp.size() > 2){
-                while(mp.size() > 2){
-                    mp[fruits[l]]--;
-                    if(mp[fruits[l]] == 0){
-                        mp.erase(fruits[l]);
-                    }
-                    l++;
-                }
+              mp[fruits[l]]--;
+              if(mp[fruits[l]] == 0) {
+                mp.erase(fruits[l]);
+              }
+              l++;
             }
             if(mp.size() <= 2){
                 int len = r - l + 1;
