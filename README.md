@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/GirishT25/leetcode_Problems/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/GirishT25/leetcode_Problems/tree/master/0231-power-of-two) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/GirishT25/leetcode_Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/GirishT25/leetcode_Problems/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/GirishT25/leetcode_Problems/tree/master/0231-power-of-two) |
 ## Two Pointers
 |  |
