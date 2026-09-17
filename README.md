@@ -67,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/GirishT25/leetcode_Problems/tree/master/0416-partition-equal-subset-sum) |
+## Database
+|  |
+| ------- |
+| [0178-rank-scores](https://github.com/GirishT25/leetcode_Problems/tree/master/0178-rank-scores) |
 <!---LeetCode Topics End-->
