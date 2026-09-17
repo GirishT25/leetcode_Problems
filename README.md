@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/GirishT25/leetcode_Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0904-fruit-into-baskets](https://github.com/GirishT25/leetcode_Problems/tree/master/0904-fruit-into-baskets) |
 ## Hash Table
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/GirishT25/leetcode_Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0678-valid-parenthesis-string](https://github.com/GirishT25/leetcode_Problems/tree/master/0678-valid-parenthesis-string) |
 ## Stack
 |  |
@@ -57,4 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/GirishT25/leetcode_Problems/tree/master/0678-valid-parenthesis-string) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/GirishT25/leetcode_Problems/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/GirishT25/leetcode_Problems/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
